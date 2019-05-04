@@ -51,6 +51,10 @@
 ._文本段落 {
   text-align:left;
 }
+._文本框 {
+  color:#000000;
+  text-align:left;
+}
 ._图片 {
   color:#000000;
 }
@@ -64,6 +68,8 @@
   line-height:normal;
 }
 .box_1 {
+}
+.box_3 {
 }
 .ellipse {
 }
